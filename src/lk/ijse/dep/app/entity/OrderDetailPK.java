@@ -12,6 +12,8 @@ public class OrderDetailPK implements Serializable {
     @Column(name = "itemCode")
     private String itemCode;
 
+
+
     public OrderDetailPK() {
     }
 
